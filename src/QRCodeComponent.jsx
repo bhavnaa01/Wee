@@ -3,7 +3,7 @@ import { QRCodeSVG } from 'qrcode.react';
 
 const QRCodeComponent = () => {
   // URL where the image will be shown after scanning
-  const qrUrl = 'http://localhost:3000/natureeee.jpeg'; // Update to your production URL when deploying
+  const qrUrl = 'https://wee-bhavna-rauts-projects-d60823a4.vercel.app/natureeee.jpeg'; // Update to your production URL when deploying
 
   return (
     <div >
