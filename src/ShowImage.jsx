@@ -2,7 +2,7 @@ import React from 'react';
 
 const ShowImage = () => {
   // This is the URL of the image hosted in the public folder
-  const imageUrl = 'http://192.168.69.99:3000/natureeee.jpeg';  // Update to your production URL when deploying
+  const imageUrl = 'http://localhost:3000/natureeee.jpeg';  // Update to your production URL when deploying
 
   return (
     <div>
